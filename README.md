@@ -1,8 +1,8 @@
-# Stopwatch
+# Stopwatch ⏱️
 Creating a Stopwatch
 Using
 
-Vanilla Javascript ,
+Vanilla Javascript , 
  HTML
 , CSS
 
